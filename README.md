@@ -1,1 +1,1 @@
-# BigDataStudy
+#빅데이터 기초 공부
